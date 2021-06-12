@@ -2,7 +2,7 @@ import React from 'react'
 import { Grid } from 'semantic-ui-react'
 import CandidateList from '../pages/CandidateList'
 import CityList from '../pages/CityList'
-
+ 
 
 export default function Dashboard() {
     return (

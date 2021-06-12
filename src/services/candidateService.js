@@ -5,4 +5,4 @@ export default class CandidateService{
         return axios.get("http://localhost:8080/api/candidates/getall")
     }
 
-}
+} 

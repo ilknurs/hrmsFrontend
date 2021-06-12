@@ -8,7 +8,7 @@ export default function CandidateList() {
         let candidateService = new CandidateService()
         candidateService.getCandidate().then(result => setCandidates(result.data.data))
     })
-    return (
+    return ( 
         <div>
             <Table celled>
                 <Table.Header>

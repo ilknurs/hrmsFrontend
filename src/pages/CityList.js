@@ -9,7 +9,7 @@ export default function CityList() {
         cityService.getCity().then(result => setCities(result.data.data))
     })
 
-    return (
+    return ( 
         <div>
             <Table celled>
                 <Table.Header>

@@ -2,7 +2,7 @@ import React from 'react'
 import { Container, Menu } from "semantic-ui-react";
 import SignedIn from './SignIn';
 import SignedOut from './SignOut';
-
+ 
 export default function Navi() {
   return (
     <div>

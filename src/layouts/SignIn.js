@@ -2,7 +2,7 @@ import React from 'react'
 import { Dropdown, Menu } from 'semantic-ui-react'
 import Avatar from '@material-ui/core/Avatar';
 
-
+  
 export default function SignedIn({signOut}) {
     return (
         <div>
