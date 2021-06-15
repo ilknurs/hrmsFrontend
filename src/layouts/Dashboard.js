@@ -11,9 +11,9 @@ export default function Dashboard() {
             <Grid.Row>
                 <Grid.Column >
                     <CandidateList/>
-                    
                 </Grid.Column>
             </Grid.Row>
+            
             <Grid.Row>
                 <Grid.Column>
                 <CityList/>
